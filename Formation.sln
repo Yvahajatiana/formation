@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 0", "Episode 0\Episode 0.csproj", "{CCCF0417-6B95-4687-B496-41B18EFE02D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 0", "olds\Episode 0\Episode 0.csproj", "{CCCF0417-6B95-4687-B496-41B18EFE02D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 3", "Episode 3\Episode 3.csproj", "{3F64D2B9-AA34-4076-ABDF-89C9DBD26159}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 3", "olds\Episode 3\Episode 3.csproj", "{3F64D2B9-AA34-4076-ABDF-89C9DBD26159}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 4", "Episode 4\Episode 4.csproj", "{198F1CF4-61F7-4EDE-BD91-25508C3D6B84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 4", "olds\Episode 4\Episode 4.csproj", "{198F1CF4-61F7-4EDE-BD91-25508C3D6B84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 5", "Episode 6\Episode 5.csproj", "{3FBFE405-0B06-4D4B-BDE1-79F131FE7DEC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 5", "olds\Episode 6\Episode 5.csproj", "{3FBFE405-0B06-4D4B-BDE1-79F131FE7DEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 6A", "Episode 6A\Episode 6A.csproj", "{4592C2D0-19B0-4C52-A9CB-47465403BBB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 6A", "olds\Episode 6A\Episode 6A.csproj", "{4592C2D0-19B0-4C52-A9CB-47465403BBB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 7", "Episode 7\Episode 7.csproj", "{C201F30E-9A22-4F15-9161-E2439480A1F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 7", "olds\Episode 7\Episode 7.csproj", "{C201F30E-9A22-4F15-9161-E2439480A1F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 9", "Episode 9\Episode 9.csproj", "{D143F791-D5B7-4B2A-A9B7-B4E2CD0E4ECF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 9", "olds\Episode 9\Episode 9.csproj", "{D143F791-D5B7-4B2A-A9B7-B4E2CD0E4ECF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 10", "Episode 10\Episode 10.csproj", "{AB73D00F-EE3F-4E45-A6D1-DE2D667ADBB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 10", "olds\Episode 10\Episode 10.csproj", "{AB73D00F-EE3F-4E45-A6D1-DE2D667ADBB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 11", "Episode 11\Episode 11.csproj", "{6DA4D063-BA86-48A1-B9B8-9808DCC75E69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 11", "olds\Episode 11\Episode 11.csproj", "{6DA4D063-BA86-48A1-B9B8-9808DCC75E69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 12", "Episode 12\Episode 12.csproj", "{F15A1781-15EB-4E55-953E-BB54F34624D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Episode 12", "olds\Episode 12\Episode 12.csproj", "{F15A1781-15EB-4E55-953E-BB54F34624D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
